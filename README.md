@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" />
+<img src="https://github.com/Luccas84/Landing-page-Starbucks/issues/1#issue-2262407685" />
 </div>
 
 # Nome do Projeto
