@@ -1,5 +1,5 @@
 
-![Logo do projeto](https://imgur.com/hVH6MSa)
+![Logo do projeto](https://imgur.com/a/udK6512)
 
 # Nome do Projeto
 
@@ -8,37 +8,6 @@ Uma breve descrição do projeto aqui.
 ## 🔥 Introdução
 
 Coloque aqui as instruções e quais são os objetivos desse projeto, funcionalidades.
-
-### ⚙️ Pré-requisitos
-
-Coloque aqui passo a passo que precisa para instalar o projeto e como instalá-lo.
-
-```
-Pode inserir exemplos.
-```
-
-### 🔨 Guia de instalação
-
-Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
-
-Etapas para instalar:
-
-```
-Codigo, exemplos
-```
-Passo 2:
-```
-Codigo, exemplos
-```
-
-
-## 🛠️ Executando os testes (caso tenha testes)
-
-Explique como executar os testes automatizados para este sistema.
-
-```
-Coloque exemplos
-```
 
 ## 📦 Tecnologias usadas:
 
@@ -72,19 +41,8 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, co
 
 Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
 
-## 💭 FAQ - Perguntas frequentes
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
-
-
 ## 💡 Expressões de gratidão
 
 * Um agradecimento publicamente.
-* Para suporte, mande um email para nome@teste.com.
-* Link para o seu linkedin [Meu linkedin](https://url_do_link)
+* Para suporte, mande um email para luccaspereira84@gmail.com
+* Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/luccas-pereira-40022b229/)
