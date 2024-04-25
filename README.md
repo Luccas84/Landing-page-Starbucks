@@ -1,5 +1,6 @@
-
-![Logo do projeto](https://imgur.com/a/udK6512)
+<div align="center">
+<img src="" />
+</div>
 
 # Nome do Projeto
 
