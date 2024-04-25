@@ -33,4 +33,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, co
 * Agradeço por conferir este projeto!
 * Se tiver alguma sugestão ou dúvida, sinta-se à vontade para entrar em contato através do email luccaspereira84@gmail.com
 * Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/luccas-pereira-40022b229/)
-* Portfólio (https://luccas84.github.io/Meu-Portf-lio/Portf%C3%B3lio.html)
+* Portfólio - [Link na bio](https://acesse.dev/portfolio-luccaspereira)
