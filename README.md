@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/Luccas84/Landing-page-Starbucks/issues/1#issue-2262407685" />
-</div>
+![preview_1](https://github.com/Luccas84/Landing-page-Starbucks/assets/167586263/983aea8d-7e9a-4372-ba4f-3c71c0b76293)
 
 # Nome do Projeto
 
