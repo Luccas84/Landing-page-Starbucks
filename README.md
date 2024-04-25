@@ -1,47 +1,36 @@
 ![preview_1](https://github.com/Luccas84/Landing-page-Starbucks/assets/167586263/983aea8d-7e9a-4372-ba4f-3c71c0b76293)
 
-# Nome do Projeto
+# Página do Starbucks
 
-Uma breve descrição do projeto aqui.
+Este projeto consiste em uma página inspirada na interface do Starbucks, desenvolvida utilizando HTML e CSS.
 
 ## 🔥 Introdução
 
-Coloque aqui as instruções e quais são os objetivos desse projeto, funcionalidades.
+A página do Starbucks é uma reprodução simplificada da interface da famosa cafeteria. Seu objetivo é demonstrar habilidades de desenvolvimento web front-end utilizando HTML e CSS. Esta página não está associada ao Starbucks oficialmente e é apenas um exercício de desenvolvimento.
 
 ## 📦 Tecnologias usadas:
 
-Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
-
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-- Link para pegar as badges: https://github.com/Ileriayo/markdown-badges
-
-Ou pode separar por stacks:
-
-**Front-end:**
-* [React JS](https://react.dev/)
-* [TailwindCSS](https://tailwindcss.com/)
-
-**Back-end:**
-* [NodeJS](https://nodejs.org/).
-* [TypeScript](https://www.typescriptlang.org/) 
-* [Mongo DB](https://mongodb.com/)
+<div style="display: inline-block">
+  <img
+    alt="Html5"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  />
+  
+  <img
+    alt="CSS3"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+  />
+</div>
 
 ## 👷 Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
 
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
-* **Sujeito Programador** - *Frontend do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
-
-## 📄 Licença
-
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
+* **Luccas84** - *Desenvolvedor Front-end* - [Luccas84](https://github.com/Luccas84)
 
 ## 💡 Expressões de gratidão
 
-* Um agradecimento publicamente.
-* Para suporte, mande um email para luccaspereira84@gmail.com
+* Agradeço por conferir este projeto!
+* Se tiver alguma sugestão ou dúvida, sinta-se à vontade para entrar em contato através do email luccaspereira84@gmail.com
 * Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/luccas-pereira-40022b229/)
+* Portfólio (https://luccas84.github.io/Meu-Portf-lio/Portf%C3%B3lio.html)
